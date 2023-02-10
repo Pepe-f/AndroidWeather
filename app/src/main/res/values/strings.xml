@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">WeatherApp</string>
+    <string name="action_settings" translatable="true">Settings</string>
+    <string name="error_message" translatable="true">Error. Try later.</string>
+    <string name="action_refresh" translatable="true">Refresh</string>
+    <string name="show_pressure_settings_key" translatable="false">show_pressure</string>
+    <string name="show_pressure_settings_label" translatable="true">Show pressure</string>
+    <string name="show_wind_settings_key" translatable="false">show_wind</string>
+    <string name="show_wind_settings_label" translatable="true">Show wind</string>
+    <string name="hided" translatable="true">Hided</string>
+    <string name="shown" translatable="true">Shown</string>
+    <string name="pref_color_label" translatable="true">Shape Color</string>
+    <string name="pref_color_label_red" translatable="true">Red</string>
+    <string name="pref_color_label_blue" translatable="true">Blue</string>
+    <string name="pref_color_label_green" translatable="true">Green</string>
+    <string name="pref_color_key" translatable="false">color</string>
+    <string name="pref_color_red_value" translatable="false">red</string>
+    <string name="pref_color_blue_value" translatable="false">blue</string>
+    <string name="pref_color_green_value" translatable="false">green</string>
 </resources>
